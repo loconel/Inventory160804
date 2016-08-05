@@ -1,4 +1,4 @@
-
+#edit 160805 2025
 #Def werkt voo beide tabellen
 # including def function_list(LLSAdepot, LLSAdata): , def function_ALLocate(LLSAdepot, LLSAdata):
 #setting: 15,5,8,8,0.9 >>>>> count:  14 Availability result:  0.9000 Investment:  88.0 Tot_EBO:  0.1798 >>>>> 41111 21111
